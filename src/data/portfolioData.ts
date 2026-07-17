@@ -103,7 +103,7 @@ export const portfolioData: PortfolioData = {
     github: "https://github.com/RishiKumar-maker",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
-    location: "San Francisco, CA",
+    location: "India",
     formspreeId: "" // e.g. "my-form-id" (instructions in README on how to set this up)
   },
   skills: [
